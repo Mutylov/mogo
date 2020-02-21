@@ -288,7 +288,7 @@ h6 {
           justify-content: center;
   height: 100vh;
   width: 100%;
-  background: url("/public/img/intro_bg.jpg") center no-repeat;
+  background: url("https://mutylev.github.io/mogo/public/img/intro_bg.jpg") center no-repeat;
   background-size: cover;
   min-height: 430px;
   position: relative; }
@@ -891,17 +891,17 @@ h6 {
       background-color: #fff;
       opacity: 0.85; }
   .section--devices {
-    background: url("/public/img/section_unique_design_bg.jpg") center no-repeat;
+    background: url("https://mutylev.github.io/mogo/public/img/section_unique_design_bg.jpg") center no-repeat;
     background-size: cover;
     margin-bottom: 20px;
     padding-bottom: 0px; }
   .section--clients {
-    background: url("/public/img/layer_53.jpg") center no-repeat;
+    background: url("https://mutylev.github.io/mogo/public/img/layer_53.jpg") center no-repeat;
     background-size: cover; }
   .section--gray {
     background-color: #f8f8f8; }
   .section--map {
-    background: url("/public/img/map.jpg") center no-repeat;
+    background: url("https://mutylev.github.io/mogo/public/img/map.jpg") center no-repeat;
     background-size: cover;
     padding: 40px; }
     .section--map .section__header {
@@ -993,11 +993,11 @@ h6 {
         width: 32px;
         height: 32px; }
       .accordion .accordion__item .accordion__header .header__title--photography:before {
-        background: url("/public/img/picture.png") no-repeat; }
+        background: url("https://mutylev.github.io/mogo/public/img/picture.png") no-repeat; }
       .accordion .accordion__item .accordion__header .header__title--equalizer:before {
-        background: url("/public/img/equalizer.png") no-repeat; }
+        background: url("https://mutylev.github.io/mogo/public/img/equalizer.png") no-repeat; }
       .accordion .accordion__item .accordion__header .header__title--bullseye:before {
-        background: url("/public/img/bullseye.png") no-repeat; }
+        background: url("https://mutylev.github.io/mogo/public/img/bullseye.png") no-repeat; }
       .accordion .accordion__item .accordion__header .header__title:after {
         content: '';
         display: block;
